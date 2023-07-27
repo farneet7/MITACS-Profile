@@ -1,4 +1,5 @@
 # MITACS-Profile
+## Deadline: 31st August 2023
 ### Projects
 1. YouTube Comments Analysis ❌
 2. Cyberbullying Classifier ❌
