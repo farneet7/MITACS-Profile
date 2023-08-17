@@ -4,7 +4,7 @@
 1. YouTube Comments Analysis ❌
 2. Cyberbullying Classifier ❌
 3. NewsDaily Recommendation System ❌
-4. Scribble ❌
+4. AI-based Literary Model ❌
 5. WhatsApp Chat Analyzer ✅
 
 ### Research
