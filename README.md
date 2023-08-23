@@ -1,11 +1,10 @@
 # MITACS-Profile
 ## Deadline: 31st August 2023
 ### Projects
-1. YouTube Comments Analysis ❌
-2. Cyberbullying Classifier ❌
+1. YouTube Comments Analysis + Cyberbullying Classifier ❌
+2. Anomaly Detection ❌
 3. NewsDaily Recommendation System ❌
-4. AI-based Literary Model ❌
-5. WhatsApp Chat Analyzer ✅
+4. WhatsApp Chat Analyzer ✅
 
 ### Research
 1. Speech and Facial Expressions Recognition System ❌
