@@ -5,7 +5,7 @@
 2. Anomaly Detection ❌
 3. NewsDaily Recommendation System ❌
 4. WhatsApp Chat Analyzer ✅
-5. Sign Recognition
+5. Sign Recognition ❌
 
 ### Research
 1. Speech and Facial Expressions Recognition System ❌
