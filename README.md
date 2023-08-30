@@ -9,8 +9,7 @@
 
 ### Research
 1. Speech and Facial Expressions Recognition System ❌
-2. Sign Recognition ❌
-3. Clinical Research ❌
+2. Clinical Research ❌
 
 ### Certifications
 1. Google Data Analytics ❌
