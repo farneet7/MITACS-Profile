@@ -19,6 +19,5 @@
 4. Natural Language Processing (NLP) - Optional ❌
 
 ### Achievements
-1. Hackathons ❌
+1. Hackathons ✅
 2. Olympiads ✅
-3. Competitive Programming ❌
