@@ -22,8 +22,8 @@
 2. Olympiads ✅
 
 ### Other Materials 
-2 mandatory + 1 research essays ❌️
-Official Transcript ❌️
-Reference Letter ❌️
-Resume/CV ❌️
+2 mandatory + 1 research essays ❌️  
+Official Transcript ❌️  
+Reference Letter ❌️  
+Resume/CV ❌️  
 
